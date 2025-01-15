@@ -1,6 +1,7 @@
 {
     "name": "ynmehmedov/github-actions-php",
     "description": "Sample PHP project for GitHub Actions testing",
+    "license": "MIT",
     "type": "project",
     "require": {
         "php": ">=7.2"
