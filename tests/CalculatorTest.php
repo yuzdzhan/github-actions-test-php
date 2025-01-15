@@ -7,7 +7,7 @@ use PHPUnit\Framework\TestCase;
 
 class CalculatorTest extends TestCase
 {
-	private Calculator $calculator;
+	private $calculator;
 
 	protected function setUp(): void
 	{
