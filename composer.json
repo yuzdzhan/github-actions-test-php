@@ -1,4 +1,7 @@
 {
+	"name": "ynmehmedov/sampleplugin",
+	"description": "sampleplugin",
+    	"license": "MIT",
 	"require": {
 		"php": "^8.0"
 	},
